@@ -1,0 +1,16 @@
+name: "contentplus"
+displayName: "Content +"
+author: Box
+description: "!warling!
+languege is Japanese only.
+
+このmodでは、
+・コンベアー関連
+・新しいアイテム：圧縮資源
+・より強力なドリル
+...などのコンテンツが追加されます。
+バニラの雰囲気は壊さない...はずです。"
+version: "0.2.2"
+minGameVersion: "141"
+dependencies: [ ]
+hidden: false
