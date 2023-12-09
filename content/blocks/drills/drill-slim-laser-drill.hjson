@@ -1,0 +1,26 @@
+name: 省電力化レーザードリル
+description: 通常よりも効率がほんの少しだけ下がりますが、消費電力量が大幅に削減されたレーザードリルです。
+
+type: Drill
+health: 270
+size: 3
+tier: 4
+drillTime: 285
+consumes: {
+  power: 0.2
+  liquid: {
+    liquid: water
+    amount: 0.075
+    booster: true
+	optional: true
+  }
+}
+requirements: [
+    copper/30
+    graphite/25
+    silicon/25
+    titanium/15
+  ]
+
+category: production
+research: laser-drill

@@ -1,0 +1,5 @@
+hardness: 40
+cost: 60
+research:{
+  parent: item-press-lead
+}

@@ -1,0 +1,12 @@
+type: Conveyor
+health: 70
+solid: true
+requirements: [
+  titanium/2
+  thorium/1
+  phase-fabric/1
+]
+category: distribution
+speed: 0.25
+displayedSpeed: 15.0
+research: titanium-conveyor

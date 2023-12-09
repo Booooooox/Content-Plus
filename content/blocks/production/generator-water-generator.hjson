@@ -1,0 +1,37 @@
+type: GenericCrafter
+name: "material-generator mk-II"
+description: "大量の電気を使い、水を生み出す装置です。"
+itemCapacity: 20
+health: 22000
+size: 3
+hasPower: true
+hasItems: false
+hasLiquids: true
+craftTime: 150
+craftEffect: pulverize
+update: true
+updateEffect: pulverizeSmall
+consumes: {
+  power: 100
+}
+requirements: [
+  lead/3800
+  silicon/4100
+  thorium/4900
+  plastanium/2600
+  surge-alloy/3300
+  item-press-graphite/700
+]
+category: crafting
+research:{
+  parent: core-shard
+  requirements:[
+          lead/150000
+	  silicon/130000
+	  thorium/165000
+          plastanium/90000
+          surge-alloy/130000
+          item-press-graphite/125000
+  ]
+}
+outputLiquid: water/1500

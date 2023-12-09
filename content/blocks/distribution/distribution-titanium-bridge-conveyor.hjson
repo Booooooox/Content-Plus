@@ -1,0 +1,14 @@
+type: ItemBridge
+health: 130
+size: 1
+range: 6
+transportTime: 3
+buildCostMultiplier: 0.325
+itemCapacity: 20
+requirements: [
+  copper/10
+  titanium/15
+  silicon/5
+]
+category: distribution
+research: distribution-titanium-router

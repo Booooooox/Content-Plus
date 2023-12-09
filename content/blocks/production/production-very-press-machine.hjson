@@ -1,0 +1,28 @@
+type: GenericCrafter
+itemCapacity: 500
+health: 3120
+size: 2
+hasPower: true
+hasItems: true
+hasLiquids: false
+craftTime: 1200
+craftEffect: pulverize
+update: true
+updateEffect: pulverizeSmall
+consumes: {
+  power: 30
+  items: {
+    items: [
+      item-press-graphite/200
+    ]
+  }
+}
+requirements: [
+  item-press-lead/200
+  silicon/450
+  thorium/600
+  item-press-graphite/500
+]
+category: crafting
+research: production-very-graphite-press
+outputItem: item-very-press-graphite/1

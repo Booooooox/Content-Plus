@@ -1,0 +1,22 @@
+name: イオンエンジン発射台
+description: イオンエンジンを使用した輸送機を使い、発射のはやい準備と、輸送量の多さを両立した発射台です。
+type: LaunchPad
+itemCapacity: 500
+size: 3
+launchTime: 600
+health: 3400
+buildVisibility: campaignOnly
+lightColor: ffffff
+podEngineColor: ccffff
+consumes: {
+  power: 6
+}
+requirements: [
+  lead/300
+  silicon/600
+  thorium/450
+  surge-alloy/300
+  plastanium/200
+]
+category: effect
+research: launch-pad

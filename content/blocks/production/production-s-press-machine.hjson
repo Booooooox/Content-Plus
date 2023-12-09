@@ -1,0 +1,78 @@
+type: multicraft.MultiCrafter
+category: crafting
+menu: transform
+recipes: [
+{
+input: {
+items: [
+copper/30
+]
+power: 15
+}
+output: {
+items: [
+contentplus-item-press-copper/1
+]
+}
+craftTime: 3600
+}
+{
+input: {
+items: [
+lead/30
+]
+power: 15
+}
+output: {
+items: [
+contentplus-item-press-lead/1
+]
+}
+craftTime: 3600
+}
+{
+input: {
+items: [
+metaglass/30
+]
+power: 15
+}
+output: {
+items: [
+contentplus-item-press-metaglass/1
+]
+}
+craftTime: 3600
+}
+{
+input: {
+items: [
+graphite/30
+]
+power: 15
+}
+output: {
+items: [
+contentplus-item-press-graphite/1
+]
+}
+craftTime: 3600
+}
+]
+requirements: [
+copper/40
+lead/30
+graphite/15
+]
+size: 2
+liquidCapacity: 1000
+itemCapacity: 200
+research: {
+parent: graphite-press
+objectives: [
+{
+type: SectorComplete
+preset: frozenForest
+}
+]
+}

@@ -1,0 +1,18 @@
+name: 4次元コンテナー
+description: 4次元を使用し、大量のアイテムを格納します。（4次元は普通に考えると、新しい軸を追加し、3次元空間の物を無限に入れられますが、バランスが崩壊するので、有限の数までです。）
+
+type: StorageBlock
+itemCapacity: 10000
+hasItems: true
+health: 5700
+size: 2
+buildCostMultiplier: 1.3
+requirements: [
+  metaglass/500
+  silicon/600
+  thorium/600
+  plastanium/700
+  surge-alloy/700
+]
+category: effect
+research: vault

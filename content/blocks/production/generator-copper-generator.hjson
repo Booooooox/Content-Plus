@@ -1,0 +1,39 @@
+type: GenericCrafter
+name: "material-generator mk-I"
+description: "大量の電気を使い、銅を生み出す装置です。"
+itemCapacity: 20
+health: 20000
+size: 3
+hasPower: true
+hasItems: true
+hasLiquids: false
+craftTime: 150
+craftEffect: pulverize
+update: true
+updateEffect: pulverizeSmall
+consumes: {
+  power: 20
+}
+requirements: [
+  copper/1
+  lead/3500
+  silicon/3800
+  thorium/4600
+  plastanium/2300
+  surge-alloy/3000
+  item-press-graphite/500
+]
+category: crafting
+research:{
+  parent: core-shard
+  requirements:[
+          copper/150000
+          lead/110000
+	  silicon/115000
+	  thorium/135000
+          plastanium/75000
+          surge-alloy/100000
+          item-press-graphite/90000
+  ]
+}
+outputItem: copper/1

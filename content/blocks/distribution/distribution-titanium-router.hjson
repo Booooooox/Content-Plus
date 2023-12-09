@@ -1,0 +1,14 @@
+type: Router
+hasItems: true
+itemCapacity: 1
+speed: 2
+health: 80
+size: 1
+buildCostMultiplier: 0.2
+requirements: [
+  copper/2
+  lead/3
+  titanium/5
+]
+category: distribution
+research: distribution-titanium-junction

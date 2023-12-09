@@ -1,0 +1,5 @@
+hardness: 40
+cost: 20
+research:{
+  parent: core-shard
+}

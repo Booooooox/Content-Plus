@@ -1,0 +1,8 @@
+name: "圧縮チタン"
+description: "圧縮されたチタンです。硬度が高く、強固な施設を建設するのに使用されます。"
+details: "某オーロラ号にも使われたとか使われてないとか"
+hardness: 120
+cost: 40
+research:{
+  parent: item-press-lead
+}

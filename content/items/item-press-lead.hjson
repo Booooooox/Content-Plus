@@ -1,0 +1,5 @@
+hardness: 40
+cost: 28
+research:{
+  parent: item-press-copper
+}

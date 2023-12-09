@@ -1,0 +1,13 @@
+type: Junction
+Capacity: 6
+speed: 2
+health: 60
+size: 1
+buildCostMultiplier: 0.4
+requirements: [
+  copper/2
+  lead/3
+  titanium/5
+]
+category: distribution
+research: titanium-conveyor

@@ -1,0 +1,28 @@
+name: 弾丸ドリル
+description: 弾を発射して鉱石を削り、採掘します。
+
+type: Drill
+health: 650
+size: 3
+tier: 4
+drillTime: 260
+itemCapacity: 15
+liquidCapacity: 30
+consumes: {
+  power: 2
+  liquid: {
+    liquid: water
+    amount: 0.1
+    booster: true
+	optional: true
+  }
+}
+requirements: [
+    lead/40
+    silicon/30
+    titanium/80
+    thorium/40
+  ]
+
+category: production
+research: laser-drill

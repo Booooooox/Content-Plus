@@ -1,0 +1,28 @@
+name: 強力ドリル
+description: とても採掘速度の速いドリルです。その代償で、大量の電気を消費します。
+
+type: Drill
+health: 460
+size: 3
+tier: 5
+drillTime: 200
+itemCapacity: 30
+liquidCapacity: 30
+consumes: {
+  power: 30
+  liquid: {
+    liquid: water
+    amount: 0.5
+    booster: true
+	optional: true
+  }
+}
+requirements: [
+    silicon/65
+    titanium/45
+    thorium/90
+    plastanium/75
+  ]
+
+category: production
+research: drill-slim-laser-drill
