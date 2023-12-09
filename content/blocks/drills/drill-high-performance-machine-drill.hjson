@@ -1,6 +1,3 @@
-name: 高性能機械ドリル
-description: 通常のドリルより効率的な設計がされた機械ドリルです。
-
 type: Drill
 health: 230
 size: 2
