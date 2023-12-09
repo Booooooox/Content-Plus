@@ -1,6 +1,3 @@
-name: 強力ドリル
-description: とても採掘速度の速いドリルです。その代償で、大量の電気を消費します。
-
 type: Drill
 health: 460
 size: 3
