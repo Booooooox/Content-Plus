@@ -1,6 +1,3 @@
-name: 水圧ドリル
-description: 水圧を利用してより速く採掘します。
-
 type: Drill
 health: 210
 size: 2
