@@ -1,6 +1,3 @@
-name: 小型レーザードリル
-description: 通常よりもサイズが小さいレーザードリルです。トリウムが採掘可能です。
-
 type: Drill
 health: 240
 size: 2
