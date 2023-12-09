@@ -1,30 +1,30 @@
 type: Drill
-health: 230
+health: 850
 size: 2
-tier: 3
+tier: 5
 drillTime: 300
-itemCapacity: 15
+itemCapacity: 20
 liquidCapacity: 30
 consumes: {
   liquid: {
     liquid: water
-    amount: 0.1
+    amount: 0.125
     booster: true
 	optional: true
   }
 }
 requirements: [
-    copper/30
-    lead/10
-    titanium/50
+    item-press-copper/55
+    item-press-lead/45
+    item-press-graphite/40
   ]
 
 category: production
 research: {
   parent: drill-high-performance-machine-drill
   requirements:[
-	  copper/1000
-	  lead/750
-	  titanium/800
+	  item-press-copper/750
+	  item-press-lead/600
+	  item-press-graphite/600
   ]
 }
