@@ -1,1 +1,30 @@
+type: Drill
+health: 230
+size: 2
+tier: 3
+drillTime: 300
+itemCapacity: 15
+liquidCapacity: 30
+consumes: {
+  liquid: {
+    liquid: water
+    amount: 0.1
+    booster: true
+	optional: true
+  }
+}
+requirements: [
+    copper/30
+    lead/10
+    titanium/50
+  ]
 
+category: production
+research: {
+  parent: pneumatic-drill
+  requirements:[
+	  copper/1000
+	  lead/750
+	  titanium/800
+  ]
+}
