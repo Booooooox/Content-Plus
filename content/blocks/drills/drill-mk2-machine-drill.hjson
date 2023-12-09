@@ -21,7 +21,7 @@ requirements: [
 
 category: production
 research: {
-  parent: pneumatic-drill
+  parent: drill-high-performance-machine-drill
   requirements:[
 	  copper/1000
 	  lead/750
