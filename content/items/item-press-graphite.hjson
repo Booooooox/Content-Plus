@@ -1,5 +1,5 @@
 hardness: 6
-cost: 5
+cost: 4
 research:{
   parent: graphite
 }
