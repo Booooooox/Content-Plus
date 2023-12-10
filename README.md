@@ -1,5 +1,5 @@
 # Content-Plus
-!!! warling !!!<br>
+!!! warning !!!<br>
 This mod currently only supports Japanese. Currently in the development stage.<br>
 このModは現在日本語のみ対応しています。現在開発段階です。<br>
 -----------------------------------<br>
