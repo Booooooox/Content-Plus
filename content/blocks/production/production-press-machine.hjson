@@ -159,7 +159,7 @@ craftTime: 900
 {
 input: {
 items: [
-phasefabric/20
+phase-Fabric/20
 ]
 power: 30
 }
@@ -173,7 +173,7 @@ craftTime: 1200
 {
 input: {
 items: [
-surgealloy/20
+surge-Alloy/20
 ]
 power: 30
 }
@@ -187,7 +187,7 @@ craftTime: 1200
 {
 input: {
 items: [
-sporepod/20
+spore-Pod/20
 ]
 power: 20
 }
@@ -201,7 +201,7 @@ craftTime: 750
 {
 input: {
 items: [
-blastcompound/20
+blast-Compound/20
 ]
 power: 20
 }
