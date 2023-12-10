@@ -1,2 +1,2 @@
 # Content-Plus
-This is Mindustry mod
+It is in the development stage.
