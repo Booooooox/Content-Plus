@@ -1,1 +1,6 @@
-
+hardness: 6
+cost: 6.4
+flammability: 4.6
+research:{
+  parent: item-press-coal
+}
