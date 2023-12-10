@@ -2,7 +2,6 @@ hardness: 10
 cost: 5.2
 radioactivity: 2.4
 healthScaling: 1
-alwaysUnlocked: true
 research:{
   parent: item-press-thorium
 }
