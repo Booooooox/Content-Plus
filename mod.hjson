@@ -1,17 +1,24 @@
 name: "contentplus"
-displayName: "Content + (開発中)"
+displayName: "Content + (WIP/開発中)"
 author: Box
 description: "!!! warning !!!
 This mod currently only supports Japanese. Currently in the development stage.
 このModは現在日本語のみ対応しています。現在開発段階です。
 
+In this mod,
+・Conveyor related
+・New item: Compressed resources (WIP)
+・More powerful drill
+Content such as ... will be added.
+It shouldn't destroy the vanilla atmosphere...
+
 このmodでは、
 ・コンベアー関連
-・新しいアイテム：圧縮資源
+・新しいアイテム：圧縮資源 (開発中)
 ・より強力なドリル
 ...などのコンテンツが追加されます。
 バニラの雰囲気は壊さない...はずです。"
-version: "0.2.3"
+version: "0.1.1"
 minGameVersion: "141"
 dependencies: [ ]
 hidden: false
