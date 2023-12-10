@@ -7,11 +7,109 @@ input: {
 items: [
 copper/20
 ]
-power: 7.5
+power: 15
 }
 output: {
 items: [
 contentplus-item-press-copper/1
+]
+}
+craftTime: 600
+}
+{
+input: {
+items: [
+lead/20
+]
+power: 15
+}
+output: {
+items: [
+contentplus-item-press-lead/1
+]
+}
+craftTime: 600
+}
+{
+input: {
+items: [
+metaglass/20
+]
+power: 15
+}
+output: {
+items: [
+contentplus-item-press-metaglass/1
+]
+}
+craftTime: 600
+}
+{
+input: {
+items: [
+graphite/20
+]
+power: 15
+}
+output: {
+items: [
+contentplus-item-press-graphite/1
+]
+}
+craftTime: 600
+}
+{
+input: {
+items: [
+sand/20
+]
+power: 15
+}
+output: {
+items: [
+contentplus-item-press-sand/1
+]
+}
+craftTime: 600
+}
+{
+input: {
+items: [
+coal/20
+]
+power: 15
+}
+output: {
+items: [
+contentplus-item-press-coal/1
+]
+}
+craftTime: 600
+}
+{
+input: {
+items: [
+titanium/20
+]
+power: 20
+}
+output: {
+items: [
+contentplus-item-press-titanium/1
+]
+}
+craftTime: 750
+}
+{
+input: {
+items: [
+thorium/20
+]
+power: 25
+}
+output: {
+items: [
+contentplus-item-press-thorium/1
 ]
 }
 craftTime: 900
@@ -19,44 +117,114 @@ craftTime: 900
 {
 input: {
 items: [
-lead/20
+scrap/20
 ]
-power: 8
+power: 15
 }
 output: {
 items: [
-contentplus-item-press-lead/1
+contentplus-item-press-scrap/1
 ]
 }
-craftTime: 960
+craftTime: 600
 }
 {
 input: {
 items: [
-metaglass/20
+silicon/20
 ]
-power: 12
+power: 20
 }
 output: {
 items: [
-contentplus-item-press-metaglass/1
+contentplus-item-press-silicon/1
 ]
 }
-craftTime: 1080
+craftTime: 750
 }
 {
 input: {
 items: [
-graphite/20
+plastanium/20
 ]
-power: 9.5
+power: 25
 }
 output: {
 items: [
-contentplus-item-press-graphite/1
+contentplus-item-press-plastanium/1
 ]
 }
-craftTime: 1020
+craftTime: 900
+}
+{
+input: {
+items: [
+phaseFabric/20
+]
+power: 30
+}
+output: {
+items: [
+contentplus-item-press-phaseFabric/1
+]
+}
+craftTime: 1200
+}
+{
+input: {
+items: [
+surgeAlloy/20
+]
+power: 30
+}
+output: {
+items: [
+contentplus-item-press-surgeAlloy/1
+]
+}
+craftTime: 1200
+}
+{
+input: {
+items: [
+sporePod/20
+]
+power: 20
+}
+output: {
+items: [
+contentplus-item-press-sporePod/1
+]
+}
+craftTime: 750
+}
+{
+input: {
+items: [
+blastCompound/20
+]
+power: 20
+}
+output: {
+items: [
+contentplus-item-press-blastCompound/1
+]
+}
+craftTime: 750
+}
+{
+input: {
+items: [
+pyratite/20
+]
+power: 20
+}
+output: {
+items: [
+contentplus-item-press-pyratite/1
+]
+}
+craftTime: 750
 }
 ]
 requirements: [
