@@ -4,5 +4,5 @@ details: "5000000Hの鉛筆"
 hardness: 11
 cost: 20
 research:{
-  parent: item a200 press-graphite
+  parent: item-press-graphite
 }
