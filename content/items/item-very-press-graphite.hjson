@@ -1,6 +1,3 @@
-name: "超圧縮黒鉛"
-description: "更に圧縮された黒鉛です。硬度が鬼のように上がり、超高度な施設を建設するのに使用されます。"
-details: "5000000Hの鉛筆"
 hardness: 11
 cost: 20
 research:{
