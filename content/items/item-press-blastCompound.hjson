@@ -1,1 +1,7 @@
-
+hardness: 9
+cost: 6
+flammability: 1.6
+explosiveness: 4.8
+research:{
+  parent: item-press-pyratite
+}
