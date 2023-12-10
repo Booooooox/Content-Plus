@@ -1,5 +1,5 @@
-hardness: 40
-cost: 20
+hardness: 6
+cost: 2
 research:{
   parent: core-shard
 }
