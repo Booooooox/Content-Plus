@@ -1,1 +1,7 @@
-
+hardness: 10
+cost: 4.8
+charge: 3
+healthScaling: 1
+research:{
+  parent: item-press-thorium
+}
