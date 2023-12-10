@@ -1,5 +1,6 @@
 hardness: 6
 cost: 3
+alwaysUnlocked: true
 research:{
   parent: item-press-copper
 }
