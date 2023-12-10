@@ -10,7 +10,7 @@ This mod only supports Japanese language.
 ・より強力なドリル
 ...などのコンテンツが追加されます。
 バニラの雰囲気は壊さない...はずです。"
-version: "0.2.2"
+version: "0.2.3"
 minGameVersion: "141"
 dependencies: [ ]
 hidden: false
