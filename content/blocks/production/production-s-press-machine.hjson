@@ -14,7 +14,7 @@ items: [
 contentplus-item-press-copper/1
 ]
 }
-craftTime: 3600
+craftTime: 1200
 }
 {
 input: {
@@ -28,7 +28,7 @@ items: [
 contentplus-item-press-lead/1
 ]
 }
-craftTime: 3600
+craftTime: 1200
 }
 {
 input: {
@@ -42,7 +42,7 @@ items: [
 contentplus-item-press-metaglass/1
 ]
 }
-craftTime: 3600
+craftTime: 1200
 }
 {
 input: {
@@ -56,7 +56,7 @@ items: [
 contentplus-item-press-graphite/1
 ]
 }
-craftTime: 3600
+craftTime: 1200
 }
 ]
 requirements: [
