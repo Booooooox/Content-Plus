@@ -1,6 +1,6 @@
 hardness: 10
 cost: 5.2
-radioactivity: 2.4
+radioactivity: 5.6
 healthScaling: 1
 research:{
   parent: item-press-thorium
