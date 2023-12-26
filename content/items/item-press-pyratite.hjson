@@ -1,7 +1,7 @@
 hardness: 7
 cost: 5.2
-flammability: 5.6
-explosiveness: 1.6
+flammability: 23.4
+explosiveness: 0.4
 research:{
   parent: item-press-coal
 }
