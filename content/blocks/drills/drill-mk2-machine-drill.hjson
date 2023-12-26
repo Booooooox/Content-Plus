@@ -2,29 +2,29 @@ type: Drill
 health: 850
 size: 2
 tier: 5
-drillTime: 240
+drillTime: 220
 itemCapacity: 20
 liquidCapacity: 30
 consumes: {
   liquid: {
     liquid: water
-    amount: 0.125
+    amount: 0.1
     booster: true
 	optional: true
   }
 }
 requirements: [
-    item-press-copper/55
-    item-press-lead/45
-    item-press-graphite/40
+    item-press-copper/25
+    item-press-lead/20
+    item-press-graphite/15
   ]
 
 category: production
 research: {
   parent: drill-high-performance-machine-drill
   requirements:[
-	  item-press-copper/750
-	  item-press-lead/600
-	  item-press-graphite/600
+	  item-press-copper/100
+	  item-press-lead/100
+	  item-press-graphite/70
   ]
 }
