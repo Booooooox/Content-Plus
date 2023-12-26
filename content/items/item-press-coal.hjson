@@ -1,7 +1,7 @@
 hardness: 7
 cost: 3.2
-flammability: 4
-explosiveness: 0.8
+flammability: 15
+explosiveness: 0.2
 research:{
   parent: item-press-sand
 }
