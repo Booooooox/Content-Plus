@@ -1,7 +1,7 @@
 hardness: 9
 cost: 4.4
-explosiveness: 0.8
-radioactivity: 4
+explosiveness: 0.2
+radioactivity: 15.8
 healthScaling: 0.8
 research:{
   parent: item-press-titanium
