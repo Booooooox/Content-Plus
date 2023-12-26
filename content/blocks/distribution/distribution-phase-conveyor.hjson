@@ -2,9 +2,9 @@ type: Conveyor
 health: 70
 solid: true
 requirements: [
-  titanium/2
-  thorium/1
-  phase-fabric/1
+  item-press-copper/1
+  item-press-titanium/1
+  phase-fabric/3
 ]
 category: distribution
 speed: 0.25
