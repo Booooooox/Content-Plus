@@ -1,5 +1,6 @@
 type: multicraft.MultiCrafter
 category: crafting
+health: 2300
 menu: transform
 recipes: [
 {
@@ -7,224 +8,224 @@ input: {
 items: [
 copper/20
 ]
-power: 15
+power: 5
 }
 output: {
 items: [
 contentplus-item-press-copper/1
 ]
 }
-craftTime: 600
+craftTime: 60
 }
 {
 input: {
 items: [
 lead/20
 ]
-power: 15
+power: 5
 }
 output: {
 items: [
 contentplus-item-press-lead/1
 ]
 }
-craftTime: 600
+craftTime: 60
 }
 {
 input: {
 items: [
 metaglass/20
 ]
-power: 15
+power: 5
 }
 output: {
 items: [
 contentplus-item-press-metaglass/1
 ]
 }
-craftTime: 600
+craftTime: 60
 }
 {
 input: {
 items: [
 graphite/20
 ]
-power: 15
+power: 5
 }
 output: {
 items: [
 contentplus-item-press-graphite/1
 ]
 }
-craftTime: 600
+craftTime: 60
 }
 {
 input: {
 items: [
 sand/20
 ]
-power: 15
+power: 5
 }
 output: {
 items: [
 contentplus-item-press-sand/1
 ]
 }
-craftTime: 600
+craftTime: 60
 }
 {
 input: {
 items: [
 coal/20
 ]
-power: 15
+power: 5
 }
 output: {
 items: [
 contentplus-item-press-coal/1
 ]
 }
-craftTime: 600
+craftTime: 60
 }
 {
 input: {
 items: [
 titanium/20
 ]
-power: 20
+power: 6
 }
 output: {
 items: [
 contentplus-item-press-titanium/1
 ]
 }
-craftTime: 750
+craftTime: 75
 }
 {
 input: {
 items: [
 thorium/20
 ]
-power: 25
+power: 8
 }
 output: {
 items: [
 contentplus-item-press-thorium/1
 ]
 }
-craftTime: 900
+craftTime: 90
 }
 {
 input: {
 items: [
 scrap/20
 ]
-power: 15
+power: 5
 }
 output: {
 items: [
 contentplus-item-press-scrap/1
 ]
 }
-craftTime: 600
+craftTime: 60
 }
 {
 input: {
 items: [
 silicon/20
 ]
-power: 20
+power: 6
 }
 output: {
 items: [
 contentplus-item-press-silicon/1
 ]
 }
-craftTime: 750
+craftTime: 75
 }
 {
 input: {
 items: [
 plastanium/20
 ]
-power: 25
+power: 8
 }
 output: {
 items: [
 contentplus-item-press-plastanium/1
 ]
 }
-craftTime: 900
+craftTime: 90
 }
 {
 input: {
 items: [
 phase-fabric/20
 ]
-power: 30
+power: 10
 }
 output: {
 items: [
 contentplus-item-press-phaseFabric/1
 ]
 }
-craftTime: 1200
+craftTime: 120
 }
 {
 input: {
 items: [
 surge-alloy/20
 ]
-power: 30
+power: 10
 }
 output: {
 items: [
 contentplus-item-press-surgeAlloy/1
 ]
 }
-craftTime: 1200
+craftTime: 120
 }
 {
 input: {
 items: [
 spore-pod/20
 ]
-power: 20
+power: 6
 }
 output: {
 items: [
 contentplus-item-press-sporePod/1
 ]
 }
-craftTime: 750
+craftTime: 75
 }
 {
 input: {
 items: [
 blast-compound/20
 ]
-power: 20
+power: 6
 }
 output: {
 items: [
 contentplus-item-press-blastCompound/1
 ]
 }
-craftTime: 750
+craftTime: 75
 }
 {
 input: {
 items: [
 pyratite/20
 ]
-power: 20
+power: 6
 }
 output: {
 items: [
 contentplus-item-press-pyratite/1
 ]
 }
-craftTime: 750
+craftTime: 75
 }
 ]
 requirements: [
