@@ -1,6 +1,6 @@
 health: 2320
 category: defense
-type: wall
+type: Wall
 size: 1
 absorbLasers: true
 requirements: [
