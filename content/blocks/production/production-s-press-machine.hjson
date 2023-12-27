@@ -1,5 +1,6 @@
 type: multicraft.MultiCrafter
 category: crafting
+health: 400
 menu: transform
 recipes: [
 {
@@ -7,56 +8,56 @@ input: {
 items: [
 copper/30
 ]
-power: 15
+power: 10
 }
 output: {
 items: [
 contentplus-item-press-copper/1
 ]
 }
-craftTime: 1200
+craftTime: 240
 }
 {
 input: {
 items: [
 lead/30
 ]
-power: 15
+power: 10
 }
 output: {
 items: [
 contentplus-item-press-lead/1
 ]
 }
-craftTime: 1200
+craftTime: 240
 }
 {
 input: {
 items: [
 metaglass/30
 ]
-power: 15
+power: 10
 }
 output: {
 items: [
 contentplus-item-press-metaglass/1
 ]
 }
-craftTime: 1200
+craftTime: 240
 }
 {
 input: {
 items: [
 graphite/30
 ]
-power: 15
+power: 10
 }
 output: {
 items: [
 contentplus-item-press-graphite/1
 ]
 }
-craftTime: 1200
+craftTime: 240
 }
 ]
 requirements: [
