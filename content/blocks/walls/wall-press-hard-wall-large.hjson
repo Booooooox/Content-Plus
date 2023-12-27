@@ -1,0 +1,16 @@
+health: 9280
+category: defense
+absorbLasers: true
+requirements: [
+  item-press-titanium/160
+  item-press-thorium/204
+  item-press-plastanium/240
+]
+research: {
+  parent: wall-press-hard-wall-large
+  requirements:[
+	  item-press-titanium/800
+	  item-press-thorium/880
+	  item-press-plastanium/1000
+  ]
+}
