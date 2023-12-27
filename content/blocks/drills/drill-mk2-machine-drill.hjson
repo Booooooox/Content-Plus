@@ -1,8 +1,8 @@
 type: Drill
-health: 850
+health: 1200
 size: 2
 tier: 5
-drillTime: 220
+drillTime: 180
 itemCapacity: 20
 liquidCapacity: 30
 consumes: {
