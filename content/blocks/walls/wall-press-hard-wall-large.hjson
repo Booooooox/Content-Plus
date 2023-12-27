@@ -7,7 +7,7 @@ requirements: [
   item-press-plastanium/240
 ]
 research: {
-  parent: wall-press-hard-wall-large
+  parent: wall-press-hard-wall
   requirements:[
 	  item-press-titanium/800
 	  item-press-thorium/880
