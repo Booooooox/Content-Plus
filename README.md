@@ -1,5 +1,5 @@
 # Content-Plus
-[#ff0000]!!! warning !!!<br>
+!!! warning !!!<br>
 This mod currently <b>only supports Japanese</b>. Currently in the development stage.<br>
 このModは現在<b>日本語のみ対応</b>しています。現在開発段階です。<br>
 -----------------------------------<br>
