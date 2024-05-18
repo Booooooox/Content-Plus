@@ -10,7 +10,7 @@ consumes: {
   power: 2
   items: {
     items: [
-      blast-Compound/1
+      blastCompound/1
     ]
   }
 }
