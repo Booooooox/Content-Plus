@@ -3,6 +3,7 @@ health: 1440
 size: 4
 tier: 11
 drillTime: 180
+craftTime: 120
 itemCapacity: 50
 liquidCapacity: 100
 consumes: {
