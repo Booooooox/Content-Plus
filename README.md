@@ -1,6 +1,6 @@
 # Content-Plus
 <h2>!!!WARNING!!!</h2>
-<p>This mod currently <b>only supports Japanese and English</b>. Please note <b>that English is translated using Google Translate</b>. Currently in the development stage.<br>
+<p>This mod currently <b>only supports Japanese and English</b>. Please note <b>that English is translated using Google Translate</b>. Currently in the development stage.<br><br>
 このModは現在<b>日本語と英語にのみ対応しています</b>。なお、<b>英語はGoogle翻訳を用いています</b>。現在開発段階です。</p>
 <h2>概要</h2>
 <p>I wanted to make a mod, so I decided to make one. I'm planning on continuing with development until the end, but I might stop at some point.<br>
