@@ -17,9 +17,13 @@ It shouldn't destroy the vanilla atmosphere...
 ・新しいアイテム：圧縮資源 (開発中)
 ・より強力なドリル
 ...などのコンテンツが追加されます。
-バニラの雰囲気は壊さない...はずです。"
-version: "0.1.1"
-minGameVersion: "141"
-dependencies: [ ]
+バニラの雰囲気は壊さない...はずです。
+
+このmodはMultiCrafter Libが必要です。"
+version: "0.1.2"
+minGameVersion: "146"
+dependencies: [
+  multi-crafter
+]
 hidden: false
 hideBrowser: true
