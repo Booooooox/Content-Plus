@@ -1,0 +1,31 @@
+type: Drill
+health: 210
+size: 2
+tier: 3
+drillTime: 272.72727272727272727272727272
+itemCapacity: 15
+liquidCapacity: 30
+consumes: {
+  power: 0.5
+  liquid: {
+    liquid: water
+    amount: 0.1
+    booster: false
+  }
+}
+requirements: [
+    copper/20
+    titanium/10
+    metaglass/30
+  ]
+
+category: production
+research: {
+  parent: drill-high-performance-machine-drill
+  parent: water-extractor
+  requirements:[
+	  copper/1000
+	  titanium/800
+	  metaglass/1250
+  ]
+}
