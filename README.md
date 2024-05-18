@@ -18,6 +18,6 @@
 <h2>注意点</h2>
 <p>
 <ul>
-  <li>このmodはMultiCrafter Libを前提としています。導入されていない場合は機能しません。</li>
+  <li>このmodは<b>MultiCrafter Lib</b>を前提としています。導入されていない場合は<b>機能しません</b>。</li>
 </ul>
 </p>
