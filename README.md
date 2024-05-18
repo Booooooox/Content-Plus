@@ -18,6 +18,6 @@
 <h2>注意点</h2>
 <p>
 <ul>
-  <li>このmodは<a href="https://github.com/liplum/MultiCrafterLib"><b>MultiCrafter Lib</b></a>を前提としています。導入されていない場合は<b>機能しません</b>。</li>
+  <li>このmodは<a href="https://github.com/liplum/MultiCrafterLib">MultiCrafter Lib</a>を前提としています。導入されていない場合は<b>機能しません</b>。</li>
 </ul>
 </p>
