@@ -8,7 +8,7 @@ liquidCapacity: 30
 consumes: {
   power: 5
   liquid: {
-    liquid: cryofield
+    liquid: cryofluid
     amount: 0.1
     booster: true
 	optional: true
