@@ -8,18 +8,17 @@ liquidCapacity: 30
 consumes: {
   power: 5
   liquid: {
-    liquid: water
-    amount: 0.12
+    liquid: cryofield
+    amount: 0.1
     booster: true
 	optional: true
   }
 }
-liquidBoostIntensity: 2.0
 requirements: [
-    lead/70
-    silicon/90
-    thorium/100
-    surge-alloy/290
+    surge-alloy/50
+    phase-fabric/150
+    item-press-grephite/20
+    item-press-silicon/30
   ]
 
 category: production
