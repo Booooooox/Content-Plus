@@ -2,8 +2,13 @@ name: "contentplus"
 displayName: "Content + (WIP/開発中)"
 author: Booooooox/soraaaaaaaaa
 description: "!!! warning !!!
-This mod currently only supports Japanese. Currently in the development stage.
-このModは現在日本語のみ対応しています。現在開発段階です。
+This mod currently only supports Japanese and English. Currently in the development stage.
+Please note that English is translated using Google Translate.
+
+このModは現在日本語と英語にのみ対応しています。現在開発段階です。
+なお、英語はGoogle翻訳を用いています。
+
+
 
 In this mod,
 ・Conveyor related
@@ -18,6 +23,8 @@ It shouldn't destroy the vanilla atmosphere...
 ・より強力なドリル
 ...などのコンテンツが追加されます。
 バニラの雰囲気は壊さない...はずです。
+
+
 
 このmodはMultiCrafter Libが必要です。"
 version: "0.1.2"
