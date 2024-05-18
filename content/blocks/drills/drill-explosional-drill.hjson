@@ -3,30 +3,33 @@ health: 1440
 size: 4
 tier: 11
 drillTime: 180
-craftTime: 120
 itemCapacity: 50
 liquidCapacity: 100
 consumes: {
   power: 10
   liquid: {
-    liquid: water
-    amount: 0.1
+    liquid: cryofluid
+    amount: 0.2
     booster: false
   }
 }
 requirements: [
-    copper/20
-    titanium/10
-    metaglass/30
+  titanium/400
+  silicon/300
+  plastanium/300
+  surge-alloy/250
+  item-press-graphite/25
   ]
 
 category: production
 research: {
-  parent: drill-high-performance-machine-drill
-  parent: water-extractor
+  parent: blastDrill
+  parent: cryofluid-mixer
   requirements:[
-	  copper/1000
-	  titanium/800
-	  metaglass/1250
+	  titanium/7500
+	  silicon/6500
+	  plastanium/5000
+          surge-alloy/3000
+          item-press-graphite/400
   ]
 }
