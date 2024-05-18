@@ -8,7 +8,9 @@ liquidCapacity: 100
 consumes: {
   power: 2
   items: {
-    blastCompound/1
+    items: [
+      blastCompound/1
+    ]
   }
 }
 requirements: [
