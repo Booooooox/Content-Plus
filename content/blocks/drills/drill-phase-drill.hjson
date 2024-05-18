@@ -17,7 +17,7 @@ consumes: {
 requirements: [
     surge-alloy/50
     phase-fabric/150
-    item-press-grephite/20
+    item-press-graphite/20
     item-press-silicon/30
   ]
 
