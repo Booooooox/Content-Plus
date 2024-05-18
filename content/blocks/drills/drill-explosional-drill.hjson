@@ -7,11 +7,11 @@ craftTime: 120
 itemCapacity: 50
 liquidCapacity: 100
 consumes: {
-  power: 2
-  items: {
-    items: [
-      pyratite/1
-    ]
+  power: 10
+  liquid: {
+    liquid: water
+    amount: 0.1
+    booster: false
   }
 }
 requirements: [
