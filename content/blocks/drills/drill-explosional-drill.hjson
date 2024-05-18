@@ -1,16 +1,14 @@
 type: Drill
-health: 210
-size: 2
-tier: 3
-drillTime: 272.72727272727272727272727272
-itemCapacity: 15
-liquidCapacity: 30
+health: 1440
+size: 4
+tier: 11
+drillTime: 180
+itemCapacity: 50
+liquidCapacity: 100
 consumes: {
-  power: 0.5
-  liquid: {
-    liquid: water
-    amount: 0.1
-    booster: false
+  power: 2
+  items: {
+    blastCompound/1
   }
 }
 requirements: [
