@@ -235,7 +235,7 @@ item-press-lead/15
 item-press-metaglass/15
 titanium/50
 ]
-size: 4
+size: 3
 liquidCapacity: 1000
 itemCapacity: 200
 research: {
