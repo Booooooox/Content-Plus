@@ -2,6 +2,7 @@ type: multicraft.MultiCrafter
 category: crafting
 health: 2300
 menu: transform
+craftEffect: Fx.smeltsmoke
 recipes: [
 {
 input: {
