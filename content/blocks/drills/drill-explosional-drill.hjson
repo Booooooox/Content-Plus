@@ -5,6 +5,7 @@ tier: 11
 drillTime: 180
 itemCapacity: 50
 liquidCapacity: 100
+rotateSpeed: 200.0
 consumes: {
   power: 10
   liquid: {
